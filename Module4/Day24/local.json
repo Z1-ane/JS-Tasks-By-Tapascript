@@ -1,0 +1,36 @@
+{
+  "appName": "JS Demo App",
+  "version": "1.0.0",
+  "author": {
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 22,
+      "role": "Frontend Developer",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 25,
+      "role": "Backend Developer",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 21,
+      "role": "UI/UX Designer",
+      "isActive": true
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "notifications": true,
+    "language": "en"
+  }
+}

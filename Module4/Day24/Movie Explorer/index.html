@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Explorer</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="title">
+        <h1>Movie Explorer App</h1>
+        <p>Search any movie you like</p>
+      </div>
+      <div class="search-bar">
+        <input type="search" placeholder="Search for movies" />
+        <span class="search-icon">
+          <i class="fa-solid fa-magnifying-glass"></i
+        ></span>
+      </div>
+      <div class="movie-lists">
+        <div class="errors"></div>
+      </div>
+      <template class="movie_template">
+        <div class="movie">
+          <div class="poster">
+            <img src="" alt="" />
+          </div>
+          <div class="movie-title">Shawshank Redemption</div>
+          <div class="movie-released-year">1994</div>
+          <div class="movie-type">Movie</div>
+        </div>
+      </template>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
