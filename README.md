@@ -17,4 +17,4 @@ contains my solutions and practice files for each day.
 - And more...
 
 ## Follow the course
-👉 [tapascript on YouTube](https://www.youtube.com/@tapasadhikary)
+👉 [[tapascript on YouTube](https://www.youtube.com/@tapasadhikary)](https://youtube.com/playlist?list=PLIJrr73KDmRw2Fwwjt6cPC_tk5vcSICCu&si=52bFWu9x0l22rVDN)
